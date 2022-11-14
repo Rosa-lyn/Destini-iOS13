@@ -87,6 +87,8 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="choice1Button" destination="9QG-pg-Frw" id="7Qi-c4-94Z"/>
+                        <outlet property="choice2Button" destination="fwF-55-PpX" id="w62-6N-zaI"/>
                         <outlet property="storyLabel" destination="rAa-Vz-35u" id="beF-Dg-X4J"/>
                     </connections>
                 </viewController>
